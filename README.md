@@ -20,13 +20,6 @@ Built as a Signals & Systems project at Ziauddin University — simulates EEG-st
 | **Brain Verdict Box** | Dominant band, frequency, and SNR in plain language |
 | **Save Report** | Exports full GUI as a PNG (150 dpi) |
 
----
-
-## 🖥️ Screenshots
-
-> *Normal mode (left) and Compare Filters mode (right)*
->
-> *(Add your screenshots here after running the GUI)*
 
 ---
 
@@ -112,13 +105,6 @@ BrainWave-Studio/
 
 > Baghdadi, G. et al. (2022). *Review of EEG Signals Approaches for Mental Stress Assessment.*
 > PMC — [https://pmc.ncbi.nlm.nih.gov/articles/PMC9749579/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9749579/)
-
----
-
-## 👩‍💻 Author
-
-**Daniya** — Semester IV, Ziauddin University
-Signals & Systems — MATLAB GUI Project
 
 ---
 
